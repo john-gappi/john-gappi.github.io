@@ -1,4 +1,4 @@
-h1{background-color: rgb(217,206,179);
+h1{background-color: #FFFFFF;
    font-size: large;
    font font-weight: bold;
    font-family: Arial, sans-serif;
@@ -6,6 +6,6 @@ h1{background-color: rgb(217,206,179);
 
 body{font-size: medium;
 	font-family: Arial,sans-serif;
-	 background-color: yellow;
+	 background-color: #FCF0D1;
 }
 
