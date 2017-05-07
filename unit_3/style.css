@@ -1,10 +1,11 @@
 h1{background-color: green;
    font-size: 30px;
    font font-weight: bold;
-   font-style: sans serif;
+   font-family: Arial, sans-serif;
+}
 
-body{font-size: 14px;
-	font: sans serif;
+body{font-size: 12px;
+	font-family: Arial,sans serif;
 	 background-color: yellow;
 }
 
