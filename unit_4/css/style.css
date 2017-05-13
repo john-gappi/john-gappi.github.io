@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+@import url('https://fonts.googleapis.com/css?family=Pavanam');
+
+body{
+  font-size: 12px;
+	font-family: 'Pavanam', sans-serif;
+	background-color: #FFEAB8;
+}
+
+
+h1{
+  font-size: 30px;
+  font font-weight: bold;
+  font-family: 'Bitter', serif;
+  background-color: #D5FFD9;
+}
+
+img {
+  width: 25%;
+}
+
+.italic {
+  font-style: italic;
+}
+
+#green {
+  color: green
+}
