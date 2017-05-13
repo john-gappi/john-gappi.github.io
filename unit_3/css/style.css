@@ -1,0 +1,25 @@
+body{
+  font-size: 12px;
+	font: sans serif;
+	background-color: #FFEAB8;
+}
+
+
+h1{
+  font-size: 30px;
+  font font-weight: bold;
+  font: "Avenir", sans serif;
+  background-color: #D5FFD9;
+}
+
+img {
+  width: 25%;
+}
+
+.italic {
+  font-style: italic;
+}
+
+#green {
+  color: green
+}
