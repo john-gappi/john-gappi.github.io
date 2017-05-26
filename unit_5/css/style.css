@@ -1,6 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat+Subrayada');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
-header { display: block; 
+.header{ 
+   display: block;
+   text-align: center;
 }
 
 h1{
@@ -14,19 +16,17 @@ h1{
 p{
  font-size: 20px;
  font-weight: light;
- font-family: 'Montserrat Subrayada',  sans-serif;
+ font-family: 'Quicksand',  sans-serif;
  background-color: #FFFFFF;
  text-align: center;
 }
 
 img {
+	display: block;
+	margin: auto;
 	width: 50%;
 }
 
 .jglogo {
   width: 10%;
-}
-
-#green {
-  color: green
 }
