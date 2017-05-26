@@ -1,5 +1,14 @@
+h1 {}
 
 img {
 	width: 25%;
 	vertical-align: text-top;
+}
+
+.jglogo {
+  width: 15%;
+}
+
+#green {
+  color: green
 }
