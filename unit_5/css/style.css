@@ -1,7 +1,17 @@
-h1 {}
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Subrayada');
+
+header { display: block; 
+}
+
+h1 {
+   font-size: 20px;
+   font-weight: bold;
+   font-family: 'Monsterrat Subrayada', sans-serif;
+   background-color: #FFFFFF
+}
 
 img {
-	width: 25%;
+	width: 50%;
 	vertical-align: text-top;
 }
 
