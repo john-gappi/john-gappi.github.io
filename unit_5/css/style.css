@@ -3,11 +3,11 @@
 header { display: block; 
 }
 
-h1 {
-   font-size: 20px;
-   font-weight: bold;
-   font-family: 'Monsterrat Subrayada', sans-serif;
-   background-color: #FFFFFF
+h1{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Monsterrat Subrayada', sans-serif;
+  background-color: #FFFFFF;
 }
 
 img {
