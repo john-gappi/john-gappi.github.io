@@ -18,6 +18,8 @@ h2{
   font-family: 'Quicksand', sans-serif;
   background-color: #FFFFFF;
   text-align: center;
+  padding: 40px;
+  border:solid 5px black;
 }
 
 p{
