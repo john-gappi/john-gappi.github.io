@@ -31,11 +31,11 @@ p{
 }
 
 nav{
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
   font-family: 'Avenir', sans-serif;
   background-color: #FFFFFF;
-  text-align: center;
+  text-align: left;
   margin-left: left;
   margin-right: right;
 }
