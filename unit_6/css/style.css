@@ -123,3 +123,7 @@ content: "  ";
 clear: both;
 height: 0;
 }
+
+.bold-text {
+font-weight: bold;
+}
