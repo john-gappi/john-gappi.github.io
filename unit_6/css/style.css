@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+.header{ 
+   display: block;
+   text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Avenir', sans-serif;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+h2{
+  font-size: 30px;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FFFFFF;
+  text-align: center;
+  padding: 40px;
+  border:solid 5px black;
+}
+
+p{
+ font-size: 20px;
+ font-weight: light;
+ font-family: 'Quicksand',  sans-serif;
+ background-color: #FFFFFF;
+ text-align: center;
+}
+
+nav{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Avenir', sans-serif;
+  background-color: #FFFFFF;
+  text-align: center;
+  margin-left: left;
+  margin-right: right;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 40%;
+}
+
+#jglogo {
+  width: 20%;
+}
+
+a {
+ color: black;
+ display: block
+ padding: 20px;
+}
+
+a:hover {
+	background-color: #aaaaaa
+}
+
+.clearfixafter {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size:0;
+}
