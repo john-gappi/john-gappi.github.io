@@ -55,10 +55,15 @@ img {
 
 #jglogo {
   width: 20%;
+  border: 1px black solid;
 }
 
 #fyc { 
 width: 50%; 
+}
+
+#tbt {
+width: 50%;
 }
 
 a {
