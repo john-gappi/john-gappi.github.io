@@ -52,4 +52,9 @@ img {
 
 a {
  color: black;
+ display: block;
+}
+
+a:hover {
+	background-color: #aaaaaa
 }
