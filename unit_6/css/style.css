@@ -34,7 +34,7 @@ p{
  font-weight: light;
  font-family: 'Quicksand',  sans-serif;
  background-color: #FFFFFF;
- text-align: center;
+ text-align: left;
 }
 
 nav{
@@ -87,8 +87,8 @@ font-size:0;
 }
 
 #two_column {
-background-color: #FFB7CF;
-border: 1px black solid;
+background-color: #FFFFFF;
+border: 5px black solid;
 padding: 20px;
 }
 
