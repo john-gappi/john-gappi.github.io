@@ -94,8 +94,8 @@ padding: 20px;
 
 #left {
 background-color: white;
-border: 1px black solid;
-padding: 20px;
+border: 5px black solid;
+padding: 25px;
 float: left;
 width: 30%;
 }
@@ -103,7 +103,7 @@ width: 30%;
 #right {
 background-color: white;
 border: 5px black solid;
-padding: 20px;
+padding: 25px;
 float: right;
 width: 60%;
 }
