@@ -93,8 +93,8 @@ width: 30%;
 background-color: pink;
 border: 1px black solid;
 padding: 20px;
-float: left;
-width: 62%;
+float: right;
+width: 60%;
 }
 
 .clearfix:after {
