@@ -57,6 +57,10 @@ img {
   width: 20%;
 }
 
+#fyc { 
+width: 50%; 
+}
+
 a {
  color: black;
  display: block
