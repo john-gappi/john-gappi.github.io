@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+.header{ 
+   display: block;
+   text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Avenir', sans-serif;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+h2{
+  font-size: 30px;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FFFFFF;
+  text-align: center;
+  padding: 40px;
+  border:solid 5px black;
+}
+
+h3{
+  font-size: 20px;
+  font-family: 'Avenir bold', sans-serif;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+p{
+ font-size: 15px;
+ font-weight: light;
+ font-family: 'Quicksand',  sans-serif;
+ background-color: #FFFFFF;
+ text-align: left;
+}
+
+nav{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Avenir', sans-serif;
+  background-color: #FFFFFF;
+  text-align: center;
+  margin-left: left;
+  margin-right: right;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 40%;
+}
+
+#jglogo {
+  width: 20%;
+}
+
+#fyc { 
+width: 60%; 
+}
+
+#tbt {
+width: 60%;
+}
+
+#you {
+width: 50%;
+}
+
+a {
+ color: black;
+ display: block
+ padding: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+  clear:both;
+}
+
+a:hover {
+	background-color: #aaaaaa
+}
+
+.clearfixafter {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size:0;
+}
+
+#two_column {
+background-color: #FFFFFF;
+border: 5px black solid;
+padding: 20px;
+}
+
+#left {
+background-color: white;
+border: 5px black solid;
+padding: 25px;
+float: left;
+width: 30%;
+}
+
+#right {
+background-color: white;
+padding: 20px;
+float: right;
+width: 60%;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+font-size: 0;
+content: "  ";
+clear: both;
+height: 0;
+}
+
+.bold {
+font-weight: bold;
+}
+
+@media only screen (max-width: 480px) {
+  .article {
+    float: none;
+    width: auto;
+  }
+
